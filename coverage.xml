@@ -25,8 +25,8 @@
 						<line hits="1" number="12"/>
 						<line hits="0" number="13"/>
 						<line hits="1" number="15"/>
-						<line hits="0" number="16"/>
-						<line hits="0" number="17"/>
+						<line hits="1" number="16"/>
+						<line hits="1" number="17"/>
 					</lines>
 				</class>
 				<class branch-rate="0" complexity="0" filename="factorial_test.py" line-rate="1" name="C:/Users/Jay Bhosale/Downloads/test_unit-main/test_unit-main/factorial_test.py">
